@@ -87,3 +87,22 @@ Arabic Content
 1. [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
 
 
+### Data Structure and Algorithms
+
+1. [Grokking Algorithms (book) (entry level)](https://bit.ly/3xl71jO)
+
+2. [Algorithms Unplugged (book) (More Advanced)](https://link.springer.com/book/10.1007/978-3-642-15328-0)
+
+OR 
+
+if you don't like books
+
+English content
+1. [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+
+OR
+
+Arabic content
+1. [Data Structures Full Course In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+
+
