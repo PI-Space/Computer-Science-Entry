@@ -61,7 +61,29 @@ OR
 
 You can learn python, c#, c++, Java .. anything!
 
-Choose one:
-
+Choose one language only:
+> يعني يا اما تذاكر السي شارب او السي بلس بلس مش الاتنين مع بعض
 #### C#
+
+> Play at 1.5 speed!
+
+English Content
+1. [C# for Beginners Gavin Lon](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
+
+OR
+
+English Content Paid
+1. [Mosh Hamedani C# For beginners](https://codewithmosh.com/p/csharp-basics-for-beginners)
+2. [Mosh Hamedani C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
+
+OR 
+
+if you like books (Recommended), and you can use it as a reference
+
+[c# 8 in nutshell](http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf)
+
+#### C++ 
+Arabic Content
+1. [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+
 
