@@ -18,7 +18,7 @@ an alphabet that you need to learn before choosing any computer science track.
 2. Introduction to Computational Thinking 
 3. Dive into Programming Language
 4. Data Structure and Algorithms
-    5. Database
+5. Database
 6. Operating Systems 
 
 
