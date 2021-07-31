@@ -24,6 +24,8 @@ an alphabet that you need to learn before choosing any computer science track.
 
 ### Introduction to Computer Science
 
+> مقدمة عن المجال بشكل عام، الجزء ده مهم جدا ومفيش مشكلة ياخد وقت كبير، وابذل مجهود كبير فيه
+
 There are two great courses, One provided by MIT, the second provided by Harvard
 
 both are great!
@@ -44,7 +46,7 @@ OR
 
 ### Introduction to Computational Thinking
 
-Advanced MIT course
+> Advanced MIT course
 
 1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
 
