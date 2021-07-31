@@ -18,7 +18,7 @@ an alphabet that you need to learn before choosing any computer science track.
 2. Introduction to Computational Thinking 
 3. Dive into Programming Language
 4. Data Structure and Algorithms
-5. Database
+    5. Database
 6. Operating Systems 
 
 
@@ -104,5 +104,19 @@ OR
 
 Arabic content
 1. [Data Structures Full Course In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+
+
+### Introduction to Databases
+
+English Content
+1. [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+
+OR
+
+Arabic Content
+1. [مقرر أساسيات قواعد البيانات - DB 1](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+
+### Introduction to Operating Systems
+
 
 
