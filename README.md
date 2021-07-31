@@ -1,6 +1,10 @@
 # Computer-Science-Entry 
 
->Well, there are a huge number of roads to master the basics, there are also a huge 
+> هحاول اخلي المصادر فيها انجليزي وعربي، بس فيه مصادر لازم تشوفها وملهاش بديل بالعربي يقدم نفس المحتوي
+
+> هحاول اجيب كل المصادر تكون فري، ولو فيه مصدر مدفوع هدور له علي بديل مناسب وفري
+
+> Well, there are a huge number of roads to master the basics, there are also a huge 
 number of resources.
 This is the most suitable one in my opinion
 
@@ -24,14 +28,28 @@ There are two great courses, One provided by MIT, the second provided by Harvard
 
 both are great!
 
-1- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 OR
 
-2- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+2. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
-> please note that you can audit the course and take it for free!
-
-> please note that you can use subtitle if you find it hard to understand only in english
+> please note that you can audit the course and take it for free! 
 
 
+> please note that you can use subtitle if you find it hard to understand only in english 
+
+> يعني ممكن تخلي الكلام الي بيتقال يتكتب قدامك، وبالتالي هتقدر تفهم الانجليزي اكتر واوضح والي مش عارفه هتعمل عليه سيرش 
+
+
+### Introduction to Computational Thinking
+
+Advanced MIT course
+
+1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+
+> لو لقيت ده صعب شوية، خلص كل حاجة تانية وارجعله وسيبه للاخر 
+
+
+### Dive into Programming Language
+ 
