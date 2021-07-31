@@ -20,3 +20,18 @@ an alphabet that you need to learn before choosing any computer science track.
 
 ### Introduction to Computer Science
 
+There are two great courses, One provided by MIT, the second provided by Harvard
+
+both are great!
+
+1- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+
+OR
+
+2- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+> please note that you can audit the course and take it for free!
+
+> please note that you can use subtitle if you find it hard to understand only in english
+
+
