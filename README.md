@@ -118,5 +118,19 @@ Arabic Content
 
 ### Introduction to Operating Systems
 
+1. CS 162, 2019, UC Berkeley (Tutorials) 
 
+This is very comprehensive course, you can learn it while learning 
+your track
+
+[Videos](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
+
+[Resources](https://inst.eecs.berkeley.edu/~cs162/sp21/)
+
+OR
+
+if you prefer books
+1. [Introduction to Operating System Design and Implementation Entry](https://www.springer.com/gp/book/9781846288425)
+
+2. [OPERATING SYSTEMS THREE EASY PIECES Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
