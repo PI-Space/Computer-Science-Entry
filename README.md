@@ -89,6 +89,7 @@ Arabic Content
 
 ### Data Structure and Algorithms
 
+English Content
 1. [Grokking Algorithms (book) (entry level)](https://bit.ly/3xl71jO)
 
 2. [Algorithms Unplugged (book) (More Advanced)](https://link.springer.com/book/10.1007/978-3-642-15328-0)
@@ -118,6 +119,7 @@ Arabic Content
 
 ### Introduction to Operating Systems
 
+English Content
 1. CS 162, 2019, UC Berkeley (Tutorials) 
 
 This is very comprehensive course, you can learn it while learning 
