@@ -30,11 +30,15 @@ There are two great courses, One provided by MIT, the second provided by Harvard
 
 both are great!
 
-1. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+- [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
 OR
 
-2. [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+
+OR
+
+- [Head First Learn To Code](https://github.com/nguyenhoang4875/MyBooksForCode/blob/master/Common_Books/Head_first_series/Head%20First%20Learn%20to%20Code.pdf)
 
 > please note that you can audit the course and take it for free! 
 
@@ -42,15 +46,6 @@ OR
 > please note that you can use subtitle if you find it hard to understand only in english 
 
 > يعني ممكن تخلي الكلام الي بيتقال يتكتب قدامك، وبالتالي هتقدر تفهم الانجليزي اكتر واوضح والي مش عارفه هتعمل عليه سيرش 
-
-
-### Introduction to Computational Thinking
-
-> Advanced MIT course
-
-1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
-
-> لو لقيت ده صعب شوية، خلص كل حاجة تانية وارجعله وسيبه للاخر 
 
 
 ### Dive into Programming Language
@@ -135,4 +130,13 @@ if you prefer books
 1. [Introduction to Operating System Design and Implementation Entry](https://www.springer.com/gp/book/9781846288425)
 
 2. [OPERATING SYSTEMS THREE EASY PIECES Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+
+### Introduction to Computational Thinking
+
+> Advanced MIT course
+
+1. [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-to-computational-thinking-and-data-4)
+
+> لو لقيت ده صعب شوية، خلص كل حاجة تانية وارجعله وسيبه للاخر 
 
