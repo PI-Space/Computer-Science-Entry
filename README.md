@@ -14,13 +14,12 @@ To format a word, you have to know the alphabet, consider the basics
 an alphabet that you need to learn before choosing any computer science track.
 
 ## Computer-Science-Basics:
-1. Introduction to Computer Science
-2. Introduction to Computational Thinking 
-3. Dive into Programming Language
-4. Data Structure and Algorithms
-5. Database
-6. Operating Systems 
-
+- Introduction to Computer Science
+- Dive into Programming Language
+- Data Structure and Algorithms
+- Database
+- Operating Systems 
+- Introduction to Computational Thinking  
 
 ### Introduction to Computer Science
 
