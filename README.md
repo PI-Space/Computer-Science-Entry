@@ -39,6 +39,10 @@ OR
 
 - [Head First Learn To Code](https://github.com/nguyenhoang4875/MyBooksForCode/blob/master/Common_Books/Head_first_series/Head%20First%20Learn%20to%20Code.pdf)
 
+OR
+
+- [Computer Science Roadmap](https://roadmap.sh/computer-science)
+
 > please note that you can audit the course and take it for free! 
 
 
