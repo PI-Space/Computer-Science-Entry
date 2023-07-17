@@ -62,55 +62,34 @@ OR a book:
 ء
 
 ### Dive into Programming Language
- 
-     اي لغة برمجة ممكن تتعلمها، يفضل تكون لغة البرمجة الي هتستخدمها في التراك الي أنت ناوي تدرسه، نفترض انك مش عارف؟
-     
-     بسيطة ابدأ بأي حاجة حرفيا وأتعلمها صح وركز علي المفاهيم نفسها
-
-
-Choose one language only:
-
-#### C#
-
-> Play at 1.5 speed!
-
-English Content
--  [C# for Beginners Gavin Lon](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
-
-OR
-
-English Content Paid
--  [Mosh Hamedani C# For beginners](https://codewithmosh.com/p/csharp-basics-for-beginners)
--  [Mosh Hamedani C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/)
-
-OR 
-
-> You can use this book as a reference
-
-- [c# 8 in nutshell](http://scienceadvantage.net/wp-content/uploads/2020/09/C-8.0-In-A-Nutshell-The-Definitive-Reference-02.06.2020.-.pdf)
 
 #### C++ 
-Arabic Content
+Arabic Content - Study both
 -  [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
+-  [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
+OR
+- [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
+
+Apply what you learned:
+> اللينك الأول فيه موقع ممكن تطبق عليه الي بتتعلمه في لغة البرمجة، اعتبرها انها تاسكات مع الكورس
+> ممكن تلاقي المسائل صعبة او مش مفهومة احيانا، ده طبيعي عشان كده اللينك التاني هنا ده لينك لشانل بتشرح معظم المسائل الي في الموقع
+
+- [LeetCode](https://leetcode.com/)
+- [NeetCode](https://www.youtube.com/@NeetCode/playlists)
 
 
 ### Data Structure and Algorithms
 
 Books
--  [Grokking Algorithms (book) (entry level)](https://bit.ly/3xl71jO)
-
--  [Algorithms Unplugged (book) (More Advanced)](https://link.springer.com/book/10.1007/978-3-642-15328-0)
-
-OR 
-
-English content
+-  [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 OR
 
 Arabic content
-- [Data Structures Full Course In Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-
+- [Data Structures Full Course In Arabic](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM)
+OR
+- [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 
 ### Introduction to Databases
 
@@ -124,15 +103,12 @@ Arabic Content
 
 ### Introduction to Operating Systems
 
-English Content
--  CS 162, 2019, UC Berkeley (Tutorials) 
+- [Operating System Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
-This is very comprehensive course, you can learn it while learning 
-your track
+OR
 
-[Videos](https://www.bilibili.com/video/BV1e7411B7Ja?p=3)
 
-[Resources](https://inst.eecs.berkeley.edu/~cs162/sp21/)
+- [Operating Systems - أنظمة التشغيل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
 
 OR
 
@@ -152,13 +128,18 @@ Books
 - [CS251 Software Engineering](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-)
 
 OR
+> Audit the course to get it for free!
 
 - [Software Engineering Essentials](https://www.edx.org/course/software-engineering-essentials)
+
+
 ### Problem Solving
      تُعتبر من أهم المهارات الأساسية الي هتساعدك في المجال.
     أفضل الرودماب الموجودة من إعداد:
     ICPC Community
     واشهرهم واهمهم:
+
+> Choose only one, whatever you think is best.
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
 - [ICPC Assiut](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?usp=drivesdk)
 - ICPC Mansoura
