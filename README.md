@@ -67,7 +67,9 @@ OR a book:
 Arabic Content - Study both
 -  [C++ 4kids & beginners Mostafa Saad Ibrahim](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
 -  [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
+
 OR
+
 - [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o)
 
 Apply what you learned:
