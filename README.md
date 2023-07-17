@@ -82,15 +82,16 @@ Apply what you learned:
 
 ### Data Structure and Algorithms
 
-Books
--  [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO)
+- [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 OR
 
 Arabic content
 - [Data Structures Full Course In Arabic](https://www.youtube.com/playlist?list=PLPt2dINI2MIZX2EtY81WI-lDkvhKziLKM)
+
 OR
+
 - [CS214: Data Structures](https://www.youtube.com/playlist?list=PLoK2Lr1miEm-5zCzKE8siQezj9rvQlnca)
 
 ### Introduction to Databases
@@ -114,9 +115,7 @@ OR
 
 OR
 
-Books
 -  [Introduction to Operating System Design and Implementation Entry](https://www.springer.com/gp/book/9781846288425)
-
 -  [OPERATING SYSTEMS THREE EASY PIECES Entry](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 
