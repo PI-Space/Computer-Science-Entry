@@ -4,6 +4,10 @@
     المصادر هدفها الأساسي هو إنك تبني معرفة مبدئية بأساس المجال، المعرفة ديه هتساعدك تبدأ رحلتك في أي تراك وتتخصص فيه.
     المصادر بتركز على العلوم والمفاهيم الأساسية في المجال، ديه مش كل العلوم الي هتحتاجها، ولكن ديه العلوم الي هتحتاجها للبداية.
     بعد كده الرؤية هتتضح ليك في المصادر المطلوب منك تعرفها أكتر
+> *Translated to english*
+> 
+> Hello, this page is a collection of resources for learning the basics of the Computer Science field. The primary goal of these resources is to help you build a foundational understanding of the field. This knowledge will assist you in starting your journey in any track and specializing within it.
+> The resources focus on the fundamental sciences and concepts in the field. These are not all the sciences you will need, but they are the ones you'll require to begin. Afterward, the vision will become clearer to you regarding the resources that you need to delve into further.
 
 ## Index:
 - Introduction
@@ -21,34 +25,54 @@
 ### Roadmap Structure
     الرودماب مُقسمة لمجموعة Topics، كل Topic فيه مجموعة من المصادر
     المطلوب منك هو إنك تذاكر مصدر واحد - على الأقل من كل Topic.
-    
+
+
     طيب ليه فيه أكتر من مصدر؟
     عشان ببساطة تقدر تجربهم وتختار الأنسب ليك.
+> *Translated to English*
+> 
+> The roadmap is divided into a set of topics, with each topic containing a collection of resources. What is required from you is to study at least one resource from each topic.
+> 
+> Now, why are there multiple resources provided? Simply put, it allows you to explore different explanations and teaching styles. This way, you can try out different resources and choose the ones that resonate with you the most.
 ### Study Plan and Methodology:
     1. Take Notes:
       
     لازم بشكل مستمر تسجل Notes لكل حاجة بتذاكرها، ده هيساعدك في الفهم و هيخلي المراجعة أسهل وابسط.
+> *Translated to English*
+>
+> It's important to consistently take notes for everything you study. This will aid in your understanding and make the process of reviewing easier and more efficient.
     
     2. Study in Parallel:
      
     المصادر هنا المفروض تذاكرها كلها كمنهج واحد متكامل.
        بمعنى إنك الأفضل تذاكر في الأسبوع على سبيل المثال محاضرة في كل Topic.
        وده لأن العلوم كلها متصلة ومترابطة بتكمل بعضها
+
+> *Translated to English*
+> 
+> The resources provided here are meant to be studied as a comprehensive curriculum. In other words, it's best to approach them as an integrated whole. For instance, you could aim to study a lecture from each topic within a week. This approach is beneficial because the sciences are interconnected and interdependent – each topic complements the others.
     
     3. Focus on content not time
     
        ركز على المحتوى الي بتذاكره، بلاش تركز في الوقت وهتذاكره في أد ايه.
+> *Translated to English*
+> 
+> Focus on the content you are studying. Avoid getting too caught up in the time and instead concentrate on understanding the material deeply.
     
     
     4. Create a Timetable
       
     حدد لنفسك جدول يومي بالمحتوى الي المفروض تذاكره وتحاول على قدر الإمكان تحققه.
+> *Translated to English*
+> 
+> Focus on the content you are studying. Avoid getting too caught up in the time and instead concentrate on understanding the material deeply.
 
 ### Introduction to Computer Science
 
 >    مقدمة عن المجال بشكل عام، الجزء ده مهم جدا ومفيش مشكلة ياخد وقت كبير، وابذل مجهود كبير فيه
 
 > There are two great courses, One provided by MIT, the second provided by Harvard
+> 
 > Using Subtitles will help you if you have a hard time understanding the language
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
 
@@ -81,6 +105,11 @@ With
 Apply what you learned:
 > اللينك الأول فيه موقع ممكن تطبق عليه الي بتتعلمه في لغة البرمجة، اعتبرها انها تاسكات مع الكورس
 > ممكن تلاقي المسائل صعبة او مش مفهومة احيانا، ده طبيعي عشان كده اللينك التاني هنا ده لينك لشانل بتشرح معظم المسائل الي في الموقع
+
+> *Translated to English*
+>
+> The first link contains a website where you can apply what you're learning in a programming language. Consider this as a set of tasks along with your course.
+> It's normal to find some problems difficult or unclear at times. That's why the second link here is provided – it directs you to a channel that explains most of the problems on the website.
 
 - [LeetCode](https://leetcode.com/)
 - [NeetCode](https://www.youtube.com/@NeetCode/playlists)
@@ -145,6 +174,10 @@ OR
     أفضل الرودماب الموجودة من إعداد:
     ICPC Community
     واشهرهم واهمهم:
+
+> *Translated to English*
+> 
+> It's considered one of the most essential foundational skills that will greatly assist you in the field. The best available roadmap is compiled by the ICPC Community, and the most renowned and crucial one is:
 
 > Choose only one, whatever you think is best.
 - [ICPC Al-azhar](https://sites.google.com/view/azharicpc/training-plans/level-1-training21)
