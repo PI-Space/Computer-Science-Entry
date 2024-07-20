@@ -88,7 +88,8 @@ Apply what you learned:
 
 ### Data Structure and Algorithms
 
-- [Grokking Algorithms - Entry Level](https://bit.ly/3xl71jO)
+- [Grokking Algorithms - Entry Level - Codes](https://github.com/egonSchiele/grokking_algorithms)
+- [Grokking Algorithms - Entry Level - Pdf](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
 OR
